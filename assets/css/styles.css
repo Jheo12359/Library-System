@@ -1,0 +1,45 @@
+body{
+  max-width: 2500px;
+}
+
+#add_bookbtn{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+h1{
+  text-align: center;
+}
+.wrapper{
+  width: 500px;
+  height: 100%;
+  margin: 0 auto;
+}
+#sign_up_button {
+  margin-bottom: 5px;
+}
+.sign_up_login_button{
+  float: right;
+}
+#login_submitbtn{
+  margin-left: 200px;
+}
+#logininput{
+  text-align: center;
+}
+.login-container{
+  margin-top: 150px;
+}
+.search_container{
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+.filter_container{
+  width: 50%;
+  height: 100%;
+  float: right;
+  margin-top: -46px;
+}
+#btn-group_container{
+      margin-left: 35%;
+}
